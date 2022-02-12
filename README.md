@@ -7,6 +7,7 @@
 * [lxml](https://lxml.de/), [Xul](https://xul.readthedocs.io/)
 * Apache [httpd](https://httpd.apache.org/), [HAProxy](https://www.haproxy.org)
 * [MariaDB](https://mariadb.org/), [SQLAlchemy ORM](https://docs.sqlalchemy.org/orm/)
+* [Ansible](https://docs.ansible.com/)
 * [Linux](https://www.linux.org/), [RHEL](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux)
 
 ## Diensten
